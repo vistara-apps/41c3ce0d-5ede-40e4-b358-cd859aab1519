@@ -180,7 +180,7 @@ export default function HomePage() {
         {/* Today's Rituals */}
         <div className="space-y-4">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-white">Today's Rituals</h2>
+            <h2 className="text-2xl font-semibold text-white">Today&apos;s Rituals</h2>
             <div className="text-sm text-gray-300">
               {completedRituals.length} of {rituals.length} completed
             </div>

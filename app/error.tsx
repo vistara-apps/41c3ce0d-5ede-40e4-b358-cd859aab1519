@@ -22,7 +22,7 @@ export default function Error({
         
         <p className="text-gray-300 mb-6">
           We encountered an error while loading your resilience journey. 
-          Don't worry, your progress is safe.
+          Don&apos;t worry, your progress is safe.
         </p>
         
         <button
