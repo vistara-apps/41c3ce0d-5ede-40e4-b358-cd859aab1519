@@ -43,7 +43,7 @@
   }
   
   .ritual-card.completed {
-    @apply bg-gradient-to-r from-green-500 from-opacity-20 to-emerald-500 to-opacity-20 border-green-400 border-opacity-30;
+    @apply bg-gradient-to-r from-green-500/20 to-emerald-500/20 border-green-400/30;
   }
   
   .progress-ring {
