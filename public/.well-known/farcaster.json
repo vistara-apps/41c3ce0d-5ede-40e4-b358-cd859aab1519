@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Resilience Rituals",
+    "subtitle": "Built with Zara",
+    "description": "Resilience Rituals is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://41c3ce0d5ede40e4b358cd859aab1519-mue8.vercel.app",
+    "splashImageUrl": "https://41c3ce0d5ede40e4b358cd859aab1519-mue8.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://41c3ce0d5ede40e4b358cd859aab1519-mue8.vercel.app/image.png",
+    "tagline": "Resilience Rituals",
+    "screenshotUrls": [
+      "https://41c3ce0d5ede40e4b358cd859aab1519-mue8.vercel.app/screenshot.png",
+      "https://41c3ce0d5ede40e4b358cd859aab1519-mue8.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://41c3ce0d5ede40e4b358cd859aab1519-mue8.vercel.app/api/webhook"
+  }
+}

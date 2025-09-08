@@ -1,0 +1,14 @@
+{
+  "name": "Resilience Rituals",
+  "description": "Resilience Rituals is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://41c3ce0d-5ede-40e4-b358-cd859aab1519.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Resilience Rituals",
+      "description": "Resilience Rituals is a Base Mini App built with Zara.",
+      "url": "https://41c3ce0d-5ede-40e4-b358-cd859aab1519.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
